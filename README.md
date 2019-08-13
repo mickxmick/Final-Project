@@ -1,3 +1,3 @@
 # Final-Project
 
-our project for educationa resources.
+our project for educational resources.
